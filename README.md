@@ -10,6 +10,6 @@ This project displays the latest GitHub contributor dynamically using a JSON fil
 
 ## How to Use
 1. Fork the repo.
-2. Clone it: `git clone https://github.com/your-username/repo.git`
+2. Clone it: `git clone https://github.com/satyxm/firstPR.git`
 3. Edit `contributors.json` to add your name.
 4. Commit and make a pull request.
